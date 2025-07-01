@@ -48,3 +48,58 @@ To develop a recommendation engine that helps users discover movies similar to t
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/movie-recommendation-system.git
+2. Install required libraries:
+   ```bash
+   pip install -r requirements.txt
+
+
+3. Run the notebook:
+```bash   
+jupyter notebook notebooks/movie_recommendation.ipynb
+```
+
+
+4. (Optional) Run the web app:
+ ```bash 
+
+streamlit run app.py
+```
+
+
+📂 Project Structure
+```bash
+
+movie-recommendation-system/
+├── data/
+│   ├── movies.csv
+│   └── credits.csv
+├── notebooks/
+│   └── movie_recommendation.ipynb
+├── model/
+│   └── similarity.pkl
+├── app.py
+├── requirements.txt
+└── README.md
+```
+
+✅ Output Example
+
+Input: "Inception"
+Recommendations:
+
+Interstellar
+
+The Prestige
+
+Shutter Island
+
+The Matrix
+
+Memento
+
+
+📬 Contact
+
+Created by Shivesh 
+[Linkedin](https://www.linkedin.com/in/shivesh-tiwari-68b79a245)
+
