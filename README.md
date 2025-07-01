@@ -46,12 +46,13 @@ To develop a recommendation engine that helps users discover movies similar to t
 ## ⚙️ How to Use
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/movie-recommendation-system.git
+```bash
+git clone https://github.com/yourusername/movie-recommendation-system.git
+```
 2. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-
+```bash
+pip install -r requirements.txt
+```
 
 3. Run the notebook:
 ```bash   
@@ -100,6 +101,7 @@ Memento
 
 📬 Contact
 
-Created by Shivesh 
-[Linkedin](https://www.linkedin.com/in/shivesh-tiwari-68b79a245)
+Shivesh Tiwari
+
+[Linkedin](https://www.linkedin.com/in/shivesh-tiwari-68b79a245) | [Email](nikutiwari70@gmail.co)
 
